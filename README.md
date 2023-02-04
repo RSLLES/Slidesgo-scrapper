@@ -1,5 +1,5 @@
 # Slidesgo-scrapper
-A small script downloading in full HD every image of a theme (premium or not).
+A small script that downloads in full HD every image of a Slidesgo's theme (premium or not).
 
 ## Installation
 `python -m pip install -r requirements.txt`
