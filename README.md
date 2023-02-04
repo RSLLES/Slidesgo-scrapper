@@ -7,7 +7,7 @@ A small script downloading in full HD every image of a theme (premium or not).
 ## Usage
 `python scrapper.py <URL theme>` (ex : https://slidesgo.com/theme/acting-agency) 
 
-Externals tags are available : 
+Extra tags are available : 
 ``` 
 > python scrapper.py --help
 
